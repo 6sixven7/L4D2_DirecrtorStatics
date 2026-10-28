@@ -10,3 +10,5 @@ https://forums.alliedmods.net/showthread.php?t=321288
 valve developer community
 
 and gpt searched idk
+
+just Download the whole code 
